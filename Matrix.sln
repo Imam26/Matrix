@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{7C6D01E0-B925-41C5-8092-A1F287F65FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Debug|x64.ActiveCfg = Debug|x64
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Debug|x64.Build.0 = Debug|x64
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Debug|x86.Build.0 = Debug|Win32
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Release|x64.ActiveCfg = Release|x64
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Release|x64.Build.0 = Release|x64
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Release|x86.ActiveCfg = Release|Win32
+		{7C6D01E0-B925-41C5-8092-A1F287F65FBB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2D2450D-8DB1-404A-8F5E-7C522CE4D26A}
+	EndGlobalSection
+EndGlobal

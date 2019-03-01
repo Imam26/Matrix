@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ильяс сабитов\source\repos\matrix\matrix\source.cpp(328): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matrix.vcxproj -> c:\Users\ильяс сабитов\source\repos\Matrix\Debug\Matrix.exe
